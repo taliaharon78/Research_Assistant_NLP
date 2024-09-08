@@ -26,8 +26,7 @@ Note: If Scholar search is unavailable, the bot will return only Arxiv results.
 Make sure you run the enviroment setup section in the notebook to install necessary modules, setup Google drive path, and provide access to API keys.
 - Google Drive relative path is set to:
   GOOGLE_DRIVE_PATH_AFTER_MYDRIVE = 'Colab Notebooks/NLP_RA' change it if need be.
-- API keys are loaded from colab secrets, and not from .env as per image below. 
+- API keys are loaded from colab secrets (and not from .env) 
   instructions are here: https://medium.com/@parthdasawant/how-to-use-secrets-in-google-colab-450c38e3ec75
 
-![colab secrets](image.png)
 
